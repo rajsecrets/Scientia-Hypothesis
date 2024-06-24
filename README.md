@@ -1,4 +1,4 @@
-# Scihy👋 AI Researcher 
+# Scihy👋AI Researcher 
 
 Welcome to **Scihy**, your advanced AI researcher designed to streamline scientific exploration and discovery.
 
