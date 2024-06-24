@@ -31,60 +31,68 @@ Scihy enhances the research process by leveraging AI and machine learning to ana
 ## Project Lifecycle
 
 ### 1. User Query Processing
+   a. **User Input**: 
+      - Researchers input their search terms or research questions through a user-friendly interface.
+      - The system accepts various query formats, including natural language questions and keyword combinations.
 
-   **a. User Input:**
-   - Researchers input search terms or questions via a user-friendly interface.
-
-   **b. Natural Language Processing (NLP):**
-   - Advanced algorithms interpret and refine user queries.
+   b. **Natural Language Processing (NLP)**:
+      - Advanced NLP algorithms analyze and interpret the user's query.
+      - The system identifies key concepts, research areas, and specific requirements from the input.
 
 ### 2. Web Data Collection
+   a. **Web Scraping**:
+      - Scientia AI accesses and scrapes data from reputable academic databases such as arXiv, SciHub, and PubMed.
+      - The system adheres to ethical scraping practices and respects website terms of service.
 
-   **a. Web Scraping:**
-   - Scihy collects data from academic databases like arXiv, SciHub, and PubMed.
-
-   **b. PDF Extraction:**
-   - Relevant papers are securely downloaded with metadata extraction.
+   b. **PDF Extraction**:
+      - Relevant research papers are identified and securely downloaded.
+      - Metadata including authors, publication dates, and citations are extracted and stored.
 
 ### 3. Document Analysis and Knowledge Graph Construction
+   a. **PDF Parsing**:
+      - Advanced text extraction techniques are employed to parse PDF content.
+      - The system identifies key sections, methodologies, algorithms, and research objectives within each paper.
 
-   **a. PDF Parsing:**
-   - Text extraction identifies methodologies, algorithms, and research objectives.
-
-   **b. Knowledge Graph:**
-   - Constructs a structured representation of concepts and their relationships.
+   b. **Knowledge Graph Construction**:
+      - Extracted information is used to build a comprehensive knowledge graph.
+      - The graph represents concepts, their relationships, and the overall structure of the research field.
 
 ### 4. Gap Analysis and Research Opportunities
+   a. **Gap Identification**:
+      - Machine learning algorithms analyze the knowledge graph to detect research gaps and inconsistencies.
+      - The system identifies areas where current research is lacking or where contradictions exist.
 
-   **a. Gap Identification:**
-   - Machine learning analyzes the knowledge graph to detect research gaps.
-
-   **b. Research Direction Generation:**
-   - Proposes novel research questions and methodologies.
+   b. **Research Direction Generation**:
+      - Based on identified gaps, Scientia AI proposes novel research questions and methodologies.
+      - The system considers interdisciplinary approaches and potential cross-field applications.
 
 ### 5. Solution Proposal
+   a. **Hypothesis Generation**:
+      - Utilizing the identified gaps and existing knowledge, the system formulates actionable hypotheses.
+      - Each hypothesis is backed by supporting evidence from the analyzed literature.
 
-   **a. Hypothesis Generation:**
-   - Formulates hypotheses based on identified gaps and existing knowledge.
-
-   **b. Project Planning:**
-   - Outlines implementation plans and addresses potential challenges.
+   b. **Project Planning**:
+      - Scientia AI outlines potential implementation plans for testing the generated hypotheses.
+      - The system anticipates challenges and suggests mitigation strategies.
 
 ### 6. Output and Presentation
+   a. **Comprehensive Report**:
+      - A detailed report is generated, summarizing the current state of research, identified gaps, and suggested research directions.
+      - The report includes citations and references to relevant literature.
 
-   **a. Comprehensive Report:**
-   - Summarizes research, gaps, and suggests directions with citations.
-
-   **b. Visualizations:**
-   - Interactive knowledge graphs and charts visualize research trends.
+   b. **Visualizations**:
+      - Interactive visualizations of the knowledge graph are provided.
+      - Charts and diagrams illustrate research trends, gap analyses, and proposed solutions.
 
 ### 7. Feedback and Iteration
+   a. **User Feedback**:
+      - Researchers provide feedback on the system's output and suggestions.
+      - The feedback mechanism allows for continuous improvement of Scientia AI's capabilities.
 
-   **a. User Feedback:**
-   - Researchers provide feedback for continuous system improvement.
+   b. **System Learning**:
+      - Machine learning models are updated based on user feedback and interactions.
+      - The system continuously refines its ability to interpret queries and generate relevant insights.
 
-   **b. System Learning:**
-   - Machine learning models refine query interpretation and insight generation.
 
 ## Installation
 
