@@ -1,6 +1,6 @@
 # Scihy👋 AI Researcher 
 
-Welcome to **Scihy**, your advanced AI-powered research assistant designed to streamline scientific exploration and discovery.
+Welcome to **Scihy**, your advanced AI researcher designed to streamline scientific exploration and discovery.
 
 ## Table of Contents
 1. [Introduction](#introduction)
