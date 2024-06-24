@@ -6,7 +6,7 @@
 | a. User Input                         | - Researchers input search terms or research questions via a user-friendly interface.            |
 |                                        | - System accepts various query formats:                                                          |
 |                                        |   - Natural language questions                                                                  |
-|  				      |   - Keyword combinations                                                                        |
+|                                        |   - Keyword combinations                                                                        |
 | b. Natural Language Processing (NLP)  | - Advanced NLP algorithms analyze and interpret user queries.                                    |
 |                                        | - System identifies:                                                                            |
 |                                        |   - Key concepts                                                                               |
@@ -52,7 +52,7 @@
 |                                        |   - Existing knowledge                                                                         |
 |                                        | - Backs each hypothesis with supporting evidence from analyzed literature.                       |
 | b. Project Planning                   | - Outlines potential implementation plans for testing generated hypotheses.                      |
-|                                        | - Anticipates challenges and suggests mitigation strategies.                                     |
+|                                        | - Anticipates challenges and suggests mitigation strategies                                     |
 | **6. Output and Presentation**        |                                                                                                |
 | a. Comprehensive Report               | - Generates detailed report summarizing:                                                         |
 |                                        |   - Current state of research                                                                  |
