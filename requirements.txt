@@ -1,0 +1,40 @@
+# Core dependencies
+numpy==1.21.0
+pandas==1.3.0
+scikit-learn==0.24.2
+tensorflow==2.5.0
+torch==1.9.0
+transformers==4.8.2
+
+# Web scraping and PDF processing
+requests==2.25.1
+beautifulsoup4==4.9.3
+PyPDF2==1.26.0
+
+# Natural Language Processing
+nltk==3.6.2
+spacy==3.1.0
+
+# Data visualization
+matplotlib==3.4.2
+seaborn==0.11.1
+plotly==5.1.0
+
+# Web framework (if needed for API or interface)
+flask==2.0.1
+
+# Database interaction (if needed)
+sqlalchemy==1.4.20
+
+# Testing
+pytest==6.2.4
+
+# Code quality
+flake8==3.9.2
+black==21.6b0
+
+# Documentation
+Sphinx==4.0.2
+
+# Jupyter notebooks (for development and demonstration)
+jupyter==1.0.0
