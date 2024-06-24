@@ -5,7 +5,7 @@ Welcome to **Scihy**, your advanced AI-powered research assistant designed to st
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Project Lifecycle](#project-lifecycle)
+3. [Project Lifecycle](project_lifecycle.md)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Configuration](#configuration)
