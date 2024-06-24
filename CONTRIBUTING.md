@@ -1,4 +1,4 @@
-# Contributing to Scientia AI
+# Contributing to Scihy
 
 We're thrilled that you're interested in contributing to Scientia AI! This document outlines the process for contributing to our project and how to get started.
 
