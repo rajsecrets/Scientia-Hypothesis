@@ -76,8 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For support or inquiries, please contact our team at support@scihy.com or visit our website at https://www.scihy.com.
+For support or inquiries, please contact our team at support@scihy.io or visit our website at https://www.scihy.io.
 
 ---
-
-Feel free to further customize this README to match specific features, updates, or branding for your Scihy project. Happy researching with Scihy!
