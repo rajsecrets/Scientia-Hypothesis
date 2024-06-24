@@ -94,6 +94,7 @@ Scihy enhances the research process by leveraging AI and machine learning to ana
       - The system continuously refines its ability to interpret queries and generate relevant insights.
 
 
+
 ## Installation
 
 ```bash
