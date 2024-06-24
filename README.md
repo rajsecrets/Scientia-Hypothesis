@@ -1,4 +1,4 @@
-# Scihy👋 AI-Powered Research Assistant
+# Scihy👋 AI Researcher 
 
 Welcome to **Scihy**, your advanced AI-powered research assistant designed to streamline scientific exploration and discovery.
 
