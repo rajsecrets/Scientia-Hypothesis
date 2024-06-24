@@ -1,6 +1,3 @@
-Certainly! Here's an improved version of the README file for your open-source project, Scientia Hypothesis:
-
-```markdown
 # Scientia Hypothesis: AI-Powered Scientific Hypothesis Generator
 
 ![Scientia Hypothesis Logo](link_to_logo.png)
