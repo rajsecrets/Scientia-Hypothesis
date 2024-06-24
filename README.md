@@ -31,67 +31,112 @@ Scihy enhances the research process by leveraging AI and machine learning to ana
 ## Project Lifecycle
 
 ### 1. User Query Processing
-   a. **User Input**: 
-      - Researchers input their search terms or research questions through a user-friendly interface.
-      - The system accepts various query formats, including natural language questions and keyword combinations.
 
-   b. **Natural Language Processing (NLP)**:
-      - Advanced NLP algorithms analyze and interpret the user's query.
-      - The system identifies key concepts, research areas, and specific requirements from the input.
+#### a. User Input
+- Researchers input search terms or research questions via a user-friendly interface
+- System accepts various query formats:
+  - Natural language questions
+  - Keyword combinations
+
+#### b. Natural Language Processing (NLP)
+- Advanced NLP algorithms analyze and interpret user queries
+- System identifies:
+  - Key concepts
+  - Research areas
+  - Specific requirements
 
 ### 2. Web Data Collection
-   a. **Web Scraping**:
-      - Scientia AI accesses and scrapes data from reputable academic databases such as arXiv, SciHub, and PubMed.
-      - The system adheres to ethical scraping practices and respects website terms of service.
 
-   b. **PDF Extraction**:
-      - Relevant research papers are identified and securely downloaded.
-      - Metadata including authors, publication dates, and citations are extracted and stored.
+#### a. Web Scraping
+- Accesses and scrapes data from reputable academic databases:
+  - arXiv
+  - SciHub
+  - PubMed
+- Adheres to ethical scraping practices and respects website terms of service
+
+#### b. PDF Extraction
+- Identifies and securely downloads relevant research papers
+- Extracts and stores metadata:
+  - Authors
+  - Publication dates
+  - Citations
 
 ### 3. Document Analysis and Knowledge Graph Construction
-   a. **PDF Parsing**:
-      - Advanced text extraction techniques are employed to parse PDF content.
-      - The system identifies key sections, methodologies, algorithms, and research objectives within each paper.
 
-   b. **Knowledge Graph Construction**:
-      - Extracted information is used to build a comprehensive knowledge graph.
-      - The graph represents concepts, their relationships, and the overall structure of the research field.
+#### a. PDF Parsing
+- Employs advanced text extraction techniques
+- Identifies within each paper:
+  - Key sections
+  - Methodologies
+  - Algorithms
+  - Research objectives
+
+#### b. Knowledge Graph Construction
+- Builds comprehensive knowledge graph from extracted information
+- Represents:
+  - Concepts
+  - Relationships
+  - Overall structure of the research field
 
 ### 4. Gap Analysis and Research Opportunities
-   a. **Gap Identification**:
-      - Machine learning algorithms analyze the knowledge graph to detect research gaps and inconsistencies.
-      - The system identifies areas where current research is lacking or where contradictions exist.
 
-   b. **Research Direction Generation**:
-      - Based on identified gaps, Scientia AI proposes novel research questions and methodologies.
-      - The system considers interdisciplinary approaches and potential cross-field applications.
+#### a. Gap Identification
+- Machine learning algorithms analyze knowledge graph to detect:
+  - Research gaps
+  - Inconsistencies
+- Identifies areas where:
+  - Current research is lacking
+  - Contradictions exist
+
+#### b. Research Direction Generation
+- Proposes novel research questions and methodologies based on identified gaps
+- Considers:
+  - Interdisciplinary approaches
+  - Potential cross-field applications
 
 ### 5. Solution Proposal
-   a. **Hypothesis Generation**:
-      - Utilizing the identified gaps and existing knowledge, the system formulates actionable hypotheses.
-      - Each hypothesis is backed by supporting evidence from the analyzed literature.
 
-   b. **Project Planning**:
-      - Scientia AI outlines potential implementation plans for testing the generated hypotheses.
-      - The system anticipates challenges and suggests mitigation strategies.
+#### a. Hypothesis Generation
+- Formulates actionable hypotheses using:
+  - Identified gaps
+  - Existing knowledge
+- Backs each hypothesis with supporting evidence from analyzed literature
+
+#### b. Project Planning
+- Outlines potential implementation plans for testing generated hypotheses
+- Anticipates challenges and suggests mitigation strategies
 
 ### 6. Output and Presentation
-   a. **Comprehensive Report**:
-      - A detailed report is generated, summarizing the current state of research, identified gaps, and suggested research directions.
-      - The report includes citations and references to relevant literature.
 
-   b. **Visualizations**:
-      - Interactive visualizations of the knowledge graph are provided.
-      - Charts and diagrams illustrate research trends, gap analyses, and proposed solutions.
+#### a. Comprehensive Report
+- Generates detailed report summarizing:
+  - Current state of research
+  - Identified gaps
+  - Suggested research directions
+- Includes citations and references to relevant literature
+
+#### b. Visualizations
+- Provides interactive visualizations of the knowledge graph
+- Illustrates through charts and diagrams:
+  - Research trends
+  - Gap analyses
+  - Proposed solutions
 
 ### 7. Feedback and Iteration
-   a. **User Feedback**:
-      - Researchers provide feedback on the system's output and suggestions.
-      - The feedback mechanism allows for continuous improvement of Scientia AI's capabilities.
 
-   b. **System Learning**:
-      - Machine learning models are updated based on user feedback and interactions.
-      - The system continuously refines its ability to interpret queries and generate relevant insights.
+#### a. User Feedback
+- Researchers provide feedback on:
+  - System's output
+  - Suggestions
+- Feedback mechanism enables continuous improvement of AI capabilities
+
+#### b. System Learning
+- Updates machine learning models based on:
+  - User feedback
+  - Interactions
+- Continuously refines ability to:
+  - Interpret queries
+  - Generate relevant insights
 
 
 
