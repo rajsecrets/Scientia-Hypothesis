@@ -40,7 +40,7 @@ cd Scihy
 pip install -r requirements.txt
 ```
 
-## Usage
+## Usage (❌)
 
 ```python
 from scihy import ScihyAssistant
@@ -58,11 +58,11 @@ report = assistant.generate_report(results)
 assistant.visualize_knowledge_graph(results)
 ```
 
-## Configuration
+## Configuration (❌)
 
 Scihy can be configured via the `config.yaml` file in the project root directory. Configuration options include API keys, scraping parameters, NLP model selection, and visualization preferences.
 
-## API Reference
+## API Reference (❌)
 
 For detailed API documentation, please refer to the [API Reference Guide](https://scihy.docs.com/api).
 
